@@ -29,7 +29,6 @@ data/
 
 # Model checkpoints (don't push large model files like .h5 or .pkl)
 *.h5
-*.pkl
 *.pth
 *.ckpt
 
