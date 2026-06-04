@@ -1,0 +1,55 @@
+# Python bytecode
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+*.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Python distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Data files (you may want to upload the dataset to a cloud service like S3, not to GitHub)
+data/
+*.csv
+*.tsv
+*.json
+*.xml
+*.h5
+*.parquet
+
+# Model checkpoints (don't push large model files like .h5 or .pkl)
+*.h5
+*.pkl
+*.pth
+*.ckpt
+
+# Logs and temporary files
+logs/
+*.log
+*.out
+*.tmp
+*.bak
+
+# IDE/editor specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Operating system-specific files
+.DS_Store  # macOS
+Thumbs.db  # Windows
+
+# Other
+*.zip
+*.tar.gz
