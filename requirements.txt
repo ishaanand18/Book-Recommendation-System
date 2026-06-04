@@ -59,6 +59,7 @@ greenlet==3.1.1
 groq==1.0.0
 grpcio==1.70.0
 grpcio-status==1.70.0
+gunicorn==23.0.0
 h11==0.14.0
 httpcore==1.0.7
 httplib2==0.22.0
@@ -144,7 +145,6 @@ pydantic==2.10.6
 pydantic-settings==2.8.0
 pydantic_core==2.27.2
 pydeck==0.9.1
-pygame==2.6.1
 Pygments==2.19.1
 PyMySQL==1.1.1
 pyparsing==3.2.1
@@ -152,7 +152,6 @@ python-dateutil==2.9.0.post0
 python-dotenv==1.0.1
 python-json-logger==3.2.1
 pytz==2025.1
-pywin32==308
 pywinpty==2.0.15
 PyYAML==6.0.2
 pyzmq==26.2.1
@@ -186,7 +185,6 @@ terminado==0.18.1
 threadpoolctl==3.5.0
 tiktoken==0.9.0
 tinycss2==1.4.0
-tk==0.1.0
 tokenizers==0.21.2
 toml==0.10.2
 torch==2.7.1
